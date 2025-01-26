@@ -1,2 +1,2 @@
-*.pyc
-datasets/YourMusicLibrary/*
+# mp3 --> wav --> npy
+*.npy
